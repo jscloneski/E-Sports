@@ -11,8 +11,8 @@ TypeScript, React, React Native
 
 ## Anexos
 
-<a href="https://github.com/jscloneski/E-Sports/blob/main/main.png" target="_blank">main</a>
+<img src="https://github.com/jscloneski/E-Sports/blob/main/main.png">
 
-<a href="https://github.com/jscloneski/E-Sports/blob/main/publicaranuncio.png" target="_blank">publicaranuncio</a>
+<img src="https://github.com/jscloneski/E-Sports/blob/main/publicaranuncio.png">
 
-<a href="https://github.com/jscloneski/E-Sports/blob/main/criandoanuncio.png" target="_blank">criando</a>
+<img src="https://github.com/jscloneski/E-Sports/blob/main/criandoanuncio.png">
